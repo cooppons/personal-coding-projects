@@ -1,2 +1,9 @@
-# personal-coding-projects
-Respository for sharing creative content. Created for Block 2 Project.
+# Personal Coding Projects
+
+## Purpose
+
+This repository is a collection of personal coding projects and learning resources.
+
+## License
+
+This repository is licensed under the MIT License. See the `LICENSE` file for details.
